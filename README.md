@@ -1,0 +1,2 @@
+# bit-words
+smallProgramSimulatingTyping
